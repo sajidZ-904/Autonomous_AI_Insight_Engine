@@ -1,0 +1,1 @@
+{"id": "doc_03", "title": "GraphQL Performance Optimization", "content": "In enterprise SaaS, GraphQL's ability to batch multiple queries into a single request significantly improves performance. This reduces network overhead and server load, especially important for mobile applications or distributed systems where bandwidth efficiency is crucial."}
